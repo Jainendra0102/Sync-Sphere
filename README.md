@@ -1,20 +1,8 @@
 # Sync Sphere
 
-This Project is made for Google Solution Challenge by Alpha Coders -
-
-# Team | Alpha Coders
-
-- [Abhyuday Pratap Singh](https://www.linkedin.com/in/abhyuday12/) ||  [Aditya Jaiswal](https://www.linkedin.com/in/aditya-jaiswal-14b453241/)  || [Akhilesh](https://www.linkedin.com/in/akhilesh-malik-44989b258/)
-|| [Kumar Harsh](https://www.linkedin.com/in/kumar-harsh-468a22253)
-
-### Resources
-- [Pototype](https://youtu.be/dhV69KjNwKM?si=FplO35hlBIhyPgut)
-- [PPT](https://docs.google.com/presentation/d/1sNe9oJ43-EtZBqNz-faLomwxc8w_-bZL/edit?usp=sharing&ouid=102958168798562091089&rtpof=true&sd=true)
-
-
 # 1. Introduction
 
-Welcome to Sync Sphere – a revolutionary platform connecting individuals eager to volunteer or donate, companies pursuing CSR opportunities, and NGOs facing resource constraints. Our mission is to forge impactful collaborations, uniting these diverse groups to address societal challenges and contribute to SDG Goal 17.
+Welcome to Sync Sphere – a revolutionary platform connecting individuals eager to volunteer or donate, companies pursuing CSR opportunities, and NGOs facing resource constraints. Our mission is to forge impactful collaborations, uniting these diverse groups to address societal challenges.
 
 ## 1.1 Problem Statement
 
@@ -52,7 +40,7 @@ This streamlines collaboration and resource allocation, ensuring support reaches
 Install the project by cloning this repo from your terminal.
 
 ```bash
-https://github.com/abhyuday1212/Sync-Sphere.git
+https://github.com/Jainendra0102/Sync-Sphere.git
 ```
 - Go to the #Sync-Sphere folder,open terminal in VS-Code and write this command
  ``` bash
@@ -183,16 +171,7 @@ _Server:_ MongoDB , Express.js , Node.js .
 # 8.0 Support
 
 For support, email us on -
-Abhyuday Pratap singh : apsworks1212@gmail.com
+Jainendra Mall : jainendramall143@gmail.com
 </br>
-Mob Num : 6391909757
 
-# Note
 
-- The Chat app is still pending for the integration and will be integrated soon which will allow users to create a personal chat room for every project for strategy disscussion with all its stake holders.
-- So Video made in the drive folder is merger of all the features and how it will look like once we merged all the projects.
-- We are Providing the github repo from which we are working with the features of the chat app by our indivuidual team mates Harsh.
-
-[Harsh | Chat App](https://github.com/kharsh560/ChatApp)
-
-</br>
